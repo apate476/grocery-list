@@ -1,3 +1,14 @@
+.veggies {
+  background-color: antiquewhite;
+  border-style: solid;
+  padding: 0px 10px 0px 10px;
+}
+
+.snacks {
+  background-color: antiquewhite;
+  border-style: solid;
+  padding: 10px;
+}
 @import url(https://fonts.googleapis.com/css?family=Quicksand:300,500,700);
 
 .main-header {
