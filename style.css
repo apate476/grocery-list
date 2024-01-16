@@ -18,3 +18,14 @@
     text-align: center;
     color: #deffb9;
 }
+.veggies {
+  background-color: antiquewhite;
+  border-style: solid;
+  padding: 0px 10px 0px 10px;
+}
+
+.snacks {
+  background-color: antiquewhite;
+  border-style: solid;
+  padding: 10px;
+}
